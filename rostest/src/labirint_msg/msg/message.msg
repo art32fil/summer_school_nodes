@@ -1,0 +1,2 @@
+char command
+time t
